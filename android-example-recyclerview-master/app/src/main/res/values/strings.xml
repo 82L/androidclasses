@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Name Generator</string>
+    <string name="add">Add</string>
+    <string name="name_clicked">Name clicked: %s</string>
+    <string name="name_double_clicked">Name double clicked: %s</string>
+    <string name="name_long_clicked">Name long clicked: %s</string>
+</resources>
